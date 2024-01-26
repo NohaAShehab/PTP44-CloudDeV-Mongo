@@ -1,0 +1,21 @@
+{
+
+    "data": [
+
+        {"name":"Ahmed", "email": "ahmed@gmail.com"}, 
+        {"fname":"ali", "lname":"ff",
+            "address":{
+                    "city":"cairo",
+                    "street": 10
+
+            }
+        },
+        {"id":10, "name": "ahmed", "logintime": 62783648726}
+
+
+    ], 
+    "erorrs": "no errors"
+
+
+
+} 
